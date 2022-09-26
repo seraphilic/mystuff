@@ -89,4 +89,4 @@ end
 #And so on... this is probably a well known mathematical concept or whatever but I just noticed the pattern: 4 sandwich with 2 bread, negative then positive, even number of pegs divide by 3 and I ran with it ᕕʕ •ₒ• ʔ୨
 #I haven't found a use case it doesn't work with... at least... so far!   Σʕㅇᴥㅇ ʔ
 
-#Bye ʕ•ᴥ•ʔﾉ♡
+#I just started programming so please tell me if you find use cases that don't work or if you have any reccommendations to condense my code, bye y'all ʕ•ᴥ•ʔﾉ♡
